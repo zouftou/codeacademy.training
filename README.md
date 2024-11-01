@@ -1,1 +1,1 @@
-# codeacademy.training
+# w3schools.training
