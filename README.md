@@ -1,1 +1,1 @@
-# w3schools.training
+# w3schools-python.training
